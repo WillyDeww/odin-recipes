@@ -3,6 +3,7 @@
     height: auto;
     background-color: rgb(0, 0, 0);
     font-family: 'Times New Roman', Times, serif;
+    color: white;
 }
 h1 {
     background-color: rgba(231, 36, 36, 0.418);
@@ -13,11 +14,8 @@ h1 {
 ul li {
     width: 140px;
     color: aliceblue;
-    border: solid;
-    border-color: rgba(231, 36, 36, 0.418);
-    border-width: 1px;
+
 }
 a {
     color: whitesmoke;
-    background-color: rgba(231, 36, 36, 0.418);
 }
